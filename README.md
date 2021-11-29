@@ -9,3 +9,11 @@
 # \#***Woohooo!***
 
 #I also messed around and entered a [hyperlink](https://trello.com/b/nuQBHoIU/gwu-data-class-fall-2021) to see what that would look like when published on git (I tried to think of something fun to hyperlink and got nothing I'm sorry! so it just links to the class Trello page lol)
+
+#Lastly, I'm going to insert a table into my ReadMe file to ensure that uploads properly as well.
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| 1    | 4    | 7    |
+| 2    | 5    | 8    |
+| 3    | 6    | 9    |
